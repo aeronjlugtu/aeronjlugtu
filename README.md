@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aeron! <br/><a href="https://github.com/aeronjlugtu">Programmer</a>, <a href="https://www.linkedin.com/in/aeronjlugtu/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Aeron! <br/> <a href="https://www.linkedin.com/in/aeronjlugtu/">Cybersecurity Professional</a>, 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
