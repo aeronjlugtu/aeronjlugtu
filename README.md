@@ -17,7 +17,7 @@
 <h2>🕷️ Cybersecurity Projects </h2>
 
 
-- <b>SOC Analyst Labs (https://github.com/aeronjlugtu/soc-investigation-labs)</b>
+- <b>SOC Analyst Labs (https://github.com/aeronjlugtu/soc-analyst-labs)</b>
 - <b>Home Labs (Under Construction) </b>
 
 <h2>🕷️Skills I'm Building </h2>
