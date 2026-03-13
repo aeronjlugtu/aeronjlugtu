@@ -1,9 +1,9 @@
- <h1>🕷️ Hi, I'm Aeron!</h1>
+ <h1>🕷️ Hi, I'm Aeron! Your Friendly Neighbourhood Security Analyst</h1>
 
 
 <b1>Aspiring SOC Analyst / Blue Team Defender focused on detecting threats, investigating alerts, and protecting systems from malicious activity. </b1>
 
-   <b2>🕸️ Just like Spider-Man protects New York, I'm learning to defend networks from cyber threats.  </b2>
+   <b2>🕸️ Just like Spider-Man protects New York, I'm learning to defend networks from cyber threats🕸️ </b2>
 
    
    <h2>🕷️About Me</h2>
@@ -18,7 +18,16 @@
 
 
 - <b>SOC Analyst Labs (https://github.com/aeronjlugtu/soc-investigation-labs)</b>
-- <b>Home Labs </b>
+- <b>Home Labs (Under Construction) </b>
+
+<h2>🕷️Skills I'm Building </h2>
+
+- <b>Security Operations</b>
+- <b>SIEM Investigation</b>
+- <b>Endpoint Detection & Response</b>
+- <b>Incident Response</b>
+- <b>Threat Detection</b>
+- <b>Log Analysis</b>
 
 <h2>🕷️Certifications</h2>
 
@@ -34,20 +43,11 @@
   - Threat Visualizer Part 1 – Familiarization
   - Threat Visualizer Part 2 – Investigation 
   - Threat Visualizer – Administration
-
-
-
-
-
-
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/ajlxgtu/
-[linkedin]: https://linkedin.com/in/aeronjlugtu
+ 
+<h2> 🕷️ Connect with me:</h2>
+  
+  - <b>Instagram: (https://www.instagram.com/ajlxgtu)</b>
+  - <b>Linkedin]: https://linkedin.com/in/aeronjlugtu </b>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
