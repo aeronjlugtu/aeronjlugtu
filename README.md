@@ -1,4 +1,4 @@
- <h1>🕷️ Hi, I'm Aeron! Your Friendly Neighbourhood Security Analyst</h1>
+ <h1>🕷️ Hi, I'm Aeron! Your Friendly Neighbourhood SOC Analyst</h1>
 
 
 <b1>Aspiring SOC Analyst / Blue Team Defender focused on detecting threats, investigating alerts, and protecting systems from malicious activity. </b1>
